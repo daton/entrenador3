@@ -1,0 +1,5 @@
+<root>
+    <item name='com.mongodb.gridfs.GridFSDBFile'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
